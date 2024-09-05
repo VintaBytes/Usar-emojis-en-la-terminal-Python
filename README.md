@@ -13,6 +13,57 @@ print("Cara pensando: \U0001F914")
 
 Esto mostrará los emojis correspondientes en la terminal, siempre y cuando la terminal soporte caracteres Unicode.
 
+
+### Aquí tienes una lista de los emojis más comunes relacionados con la tecnología, junto con sus códigos Unicode:
+
+| Emoji | Descripción                     | Código Unicode |
+|-------|---------------------------------|----------------|
+| 💻    | Laptop                          | `\U0001F4BB`   |
+| 🖥️     | Computadora de escritorio        | `\U0001F5A5`   |
+| 🖱️     | Ratón de computadora            | `\U0001F5B1`   |
+| ⌨️     | Teclado                         | `\U00002328`   |
+| 🖲️     | Trackball                       | `\U0001F5B2`   |
+| 💾    | Disco de 3.5 pulgadas            | `\U0001F4BE`   |
+| 💽    | Disco óptico                     | `\U0001F4BD`   |
+| 💿    | Disco compacto                   | `\U0001F4BF`   |
+| 📀    | DVD                              | `\U0001F4C0`   |
+| 📱    | Teléfono móvil                   | `\U0001F4F1`   |
+| 📲    | Teléfono móvil con flecha hacia abajo | `\U0001F4F2` |
+| 📞    | Teléfono de auricular            | `\U0001F4DE`   |
+| ☎️     | Teléfono fijo                   | `\u260E`       |
+| 📟    | Buscapersonas                    | `\U0001F4DF`   |
+| 📠    | Fax                              | `\U0001F4E0`   |
+| 📺    | Televisión                       | `\U0001F4FA`   |
+| 📻    | Radio                            | `\U0001F4FB`   |
+| 🎙️     | Micrófono de estudio             | `\U0001F399`   |
+| 🎚️     | Control deslizante               | `\U0001F39A`   |
+| 🎛️     | Panel de control                 | `\U0001F39B`   |
+| 🔋    | Batería                          | `\U0001F50B`   |
+| 🔌    | Conector eléctrico               | `\U0001F50C`   |
+| 💡    | Bombilla                         | `\U0001F4A1`   |
+| 🧯    | Extintor                         | `\U0001F9EF`   |
+| 🖨️     | Impresora                       | `\U0001F5A8`   |
+| 🕹️     | Joystick                        | `\U0001F579`   |
+| 🎮    | Control de videojuegos           | `\U0001F3AE`   |
+| 🧑‍💻  | Persona programando              | `\U0001F9D1\u200D\U0001F4BB` |
+| 🛠️     | Herramientas                    | `\U0001F6E0`   |
+| ⚙️     | Engranaje                       | `\U00002699`   |
+| 🧰    | Caja de herramientas             | `\U0001F9F0`   |
+| 🛡️     | Escudo                          | `\U0001F6E1`   |
+| 🔒    | Candado cerrado                  | `\U0001F512`   |
+| 🔓    | Candado abierto                  | `\U0001F513`   |
+| 🔏    | Candado con pluma                | `\U0001F50F`   |
+| 🔐    | Candado cerrado con llave        | `\U0001F510`   |
+| 🧲    | Imán                             | `\U0001F9F2`   |
+| 🛰️     | Satélite                        | `\U0001F6F0`   |
+| 📡    | Antena parabólica                | `\U0001F4E1`   |
+| 📶    | Señal de red                     | `\U0001F4F6`   |
+| 📡    | Antena parabólica                | `\U0001F4E1`   |
+| 🕳️     | Agujero                         | `\U0001F573`   |
+| 🧮    | Ábaco                            | `\U0001F9EE`   |
+
+
+
 ### Aquí tienes una lista de los emojis más comunes relacionados con caras, junto con sus códigos Unicode:
 
 | Emoji | Descripción                       | Código Unicode |
@@ -149,3 +200,59 @@ Esto mostrará los emojis correspondientes en la terminal, siempre y cuando la t
 | 🍺    | Cerveza              | `\U0001F37A`   |
 
 
+### Aquí tienes una lista de emojis relacionados con las banderas del mundo y sus correspondientes códigos Unicode:
+
+| Emoji | País                       | Código Unicode       |
+|-------|----------------------------|----------------------|
+| 🇦🇷    | Argentina                  | `\U0001F1E6\U0001F1F7` |
+| 🇧🇷    | Brasil                     | `\U0001F1E7\U0001F1F7` |
+| 🇨🇦    | Canadá                     | `\U0001F1E8\U0001F1E6` |
+| 🇨🇱    | Chile                      | `\U0001F1E8\U0001F1F1` |
+| 🇨🇳    | China                      | `\U0001F1E8\U0001F1F3` |
+| 🇨🇴    | Colombia                   | `\U0001F1E8\U0001F1F4` |
+| 🇨🇺    | Cuba                       | `\U0001F1E8\U0001F1FA` |
+| 🇪🇨    | Ecuador                    | `\U0001F1EA\U0001F1E8` |
+| 🇪🇬    | Egipto                     | `\U0001F1EA\U0001F1EC` |
+| 🇪🇸    | España                     | `\U0001F1EA\U0001F1F8` |
+| 🇺🇸    | Estados Unidos             | `\U0001F1FA\U0001F1F8` |
+| 🇫🇷    | Francia                    | `\U0001F1EB\U0001F1F7` |
+| 🇩🇪    | Alemania                   | `\U0001F1E9\U0001F1EA` |
+| 🇬🇧    | Reino Unido                | `\U0001F1EC\U0001F1E7` |
+| 🇮🇳    | India                      | `\U0001F1EE\U0001F1F3` |
+| 🇮🇱    | Israel                     | `\U0001F1EE\U0001F1F1` |
+| 🇮🇹    | Italia                     | `\U0001F1EE\U0001F1F9` |
+| 🇯🇵    | Japón                      | `\U0001F1EF\U0001F1F5` |
+| 🇲🇽    | México                     | `\U0001F1F2\U0001F1FD` |
+| 🇷🇺    | Rusia                      | `\U0001F1F7\U0001F1FA` |
+| 🇿🇦    | Sudáfrica                  | `\U0001F1FF\U0001F1E6` |
+| 🇺🇾    | Uruguay                    | `\U0001F1FA\U0001F1FE` |
+| 🇻🇪    | Venezuela                  | `\U0001F1FB\U0001F1EA` |
+| 🇸🇦    | Arabia Saudita             | `\U0001F1F8\U0001F1E6` |
+| 🇦🇺    | Australia                  | `\U0001F1E6\U0001F1FA` |
+| 🇦🇹    | Austria                    | `\U0001F1E6\U0001F1F9` |
+| 🇧🇪    | Bélgica                    | `\U0001F1E7\U0001F1EA` |
+| 🇧🇴    | Bolivia                    | `\U0001F1E7\U0001F1F4` |
+| 🇧🇬    | Bulgaria                   | `\U0001F1E7\U0001F1EC` |
+| 🇨🇷    | Costa Rica                 | `\U0001F1E8\U0001F1F7` |
+| 🇭🇳    | Honduras                   | `\U0001F1ED\U0001F1F3` |
+| 🇯🇲    | Jamaica                    | `\U0001F1EF\U0001F1F2` |
+| 🇰🇷    | Corea del Sur              | `\U0001F1F0\U0001F1F7` |
+| 🇸🇬    | Singapur                   | `\U0001F1F8\U0001F1EC` |
+| 🇵🇦    | Panamá                     | `\U0001F1F5\U0001F1E6` |
+| 🇵🇾    | Paraguay                   | `\U0001F1F5\U0001F1FE` |
+| 🇵🇪    | Perú                       | `\U0001F1F5\U0001F1EA` |
+| 🇵🇭    | Filipinas                  | `\U0001F1F5\U0001F1ED` |
+| 🇵🇹    | Portugal                   | `\U0001F1F5\U0001F1F9` |
+| 🇵🇱    | Polonia                    | `\U0001F1F5\U0001F1F1` |
+| 🇵🇷    | Puerto Rico                | `\U0001F1F5\U0001F1F7` |
+| 🇷🇴    | Rumanía                    | `\U0001F1F7\U0001F1F4` |
+| 🇸🇪    | Suecia                     | `\U0001F1F8\U0001F1EA` |
+| 🇨🇭    | Suiza                      | `\U0001F1E8\U0001F1ED` |
+| 🇹🇭    | Tailandia                  | `\U0001F1F9\U0001F1ED` |
+| 🇺🇦    | Ucrania                    | `\U0001F1FA\U0001F1E6` |
+| 🇹🇷    | Turquía                    | `\U0001F1F9\U0001F1F7` |
+| 🇨🇿    | República Checa            | `\U0001F1E8\U0001F1FF` |
+| 🇭🇺    | Hungría                    | `\U0001F1ED\U0001F1FA` |
+| 🇬🇷    | Grecia                     | `\U0001F1EC\U0001F1F7` |
+
+Esta es sólo una selección de banderas del mundo. Los códigos Unicode de las banderas están compuestos por dos secuencias que representan las letras del código del país en ISO 3166-1 (e.g., `\U0001F1E6` para "A" y `\U0001F1F7` para "R" en el caso de Argentina).

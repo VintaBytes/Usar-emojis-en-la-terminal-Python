@@ -1,6 +1,8 @@
 # Usar emojis en la terminal con Python
 ¿Cómo puedes usar emojis en la terminal Python? ¡En este repositorio te cuento como hacerlo!
 
+<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
+
 En Python, puedes usar emojis o iconos en la terminal utilizando los caracteres Unicode que representan esos emojis. Esto es bastante sencillo y funciona en muchas terminales modernas que soportan la codificación UTF-8.
  
 Puedes usar estos códigos Unicode en Python de la siguiente forma:

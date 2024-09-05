@@ -15,6 +15,75 @@ print("Cara pensando: \U0001F914")
 
 Esto mostrará los emojis correspondientes en la terminal, siempre y cuando la terminal soporte caracteres Unicode.
 
+---
+
+### Ejemplo: Rastrear el Pedido de Comida a Domicilio
+
+Imaginemos que estamos creando una aplicación sencilla que rastrea el progreso de un pedido de comida a domicilio. Dependiendo del estado del pedido, la aplicación mostrará diferentes emojis para representar el progreso.
+
+
+```python
+import time
+
+def mostrar_estado_pedido():
+    estados = [
+        "📦 Pedido recibido",
+        "👨‍🍳 Preparando tu comida",
+        "🚚 Pedido en camino",
+        "🍽️ Pedido entregado"
+    ]
+    
+    for estado in estados:
+        print(estado)
+        time.sleep(2)  # Simula la espera de un proceso real
+
+def mostrar_resumen_pedido():
+    print("\nResumen del pedido:")
+    print("🍕 Pizza Margherita")
+    print("🥤 Bebida: Coca-Cola")
+    print("🍰 Postre: Tarta de queso")
+    print("💵 Total: $25.99")
+    print("⏰ Tiempo estimado: 30 minutos")
+
+def main():
+    print("Bienvenido a FoodTrack 🛵🍴")
+    print("Tu pedido está siendo procesado...\n")
+
+    mostrar_estado_pedido()
+
+    print("\n✅ ¡Tu pedido ha sido entregado!")
+    mostrar_resumen_pedido()
+
+if __name__ == "__main__":
+    main()
+```
+
+
+### Ejemplo de Salida:
+
+```
+Bienvenido a FoodTrack 🛵🍴
+Tu pedido está siendo procesado...
+
+📦 Pedido recibido
+👨‍🍳 Preparando tu comida
+🚚 Pedido en camino
+🍽️ Pedido entregado
+
+✅ ¡Tu pedido ha sido entregado!
+
+Resumen del pedido:
+🍕 Pizza Margherita
+🥤 Bebida: Coca-Cola
+🍰 Postre: Tarta de queso
+💵 Total: $25.99
+⏰ Tiempo estimado: 30 minutos
+```
+
+Este ejemplo es un caso práctico y realista de cómo puedes utilizar emojis en una aplicación de terminal para mejorar la experiencia del usuario. Los emojis ayudan a hacerlo más visual y amigable.
+
+
+---
 
 ### Aquí tienes una lista de los emojis más comunes relacionados con la tecnología, junto con sus códigos Unicode:
 

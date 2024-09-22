@@ -1,5 +1,5 @@
 # Usar emojis en la terminal con Python
-¿Cómo puedes usar emojis en la terminal Python? ¡En este repositorio te cuento como hacerlo!
+¿No sabes cómo usar emojis en la terminal Python? ¡En este repositorio te cuento como hacerlo!
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
 
